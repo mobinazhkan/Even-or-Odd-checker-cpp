@@ -23,4 +23,4 @@ Enter your number: 4
 Your number is even.
 
 ## ✍️ Author
-Written by Mobin Azhkan owner as a basic C++ practice project.
+Written by Mobin Azhkan as a basic C++ practice project.
